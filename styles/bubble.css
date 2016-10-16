@@ -9,7 +9,6 @@ body,
 body {
   overflow: hidden;
   font-family: 'Meddon', cursive;
-  font-weight: 400;
   background-color: 20634a;
 }
 
@@ -25,10 +24,12 @@ body {
 
 h1.title {
   color: a29061;
+  font-weight: 400;
 }
 
 h3.subtitle {
   color: bec9c1;
+  font-weight: 400;
 }
 
 .bubble {
